@@ -1453,11 +1453,6 @@
     semver "^7.3.2"
     tsutils "^3.17.1"
 
-"@uniswap/lib@^4.0.1-alpha":
-  version "4.0.1-alpha"
-  resolved "https://registry.yarnpkg.com/@uniswap/lib/-/lib-4.0.1-alpha.tgz#2881008e55f075344675b3bca93f020b028fbd02"
-  integrity sha512-f6UIliwBbRsgVLxIaBANF6w09tYqc6Y/qXdsrbEmXHyFA7ILiKrIwRFXe1yOg8M3cksgVsO9N7yuL2DdCGQKBA==
-
 abab@^2.0.0:
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/abab/-/abab-2.0.3.tgz#623e2075e02eb2d3f2475e49f99c91846467907a"
@@ -4727,12 +4722,10 @@ os-tmpdir@~1.0.2:
   resolved "https://registry.yarnpkg.com/os-tmpdir/-/os-tmpdir-1.0.2.tgz#bbe67406c79aa85c5cfec766fe5734555dfa1274"
   integrity sha1-u+Z0BseaqFxc/sdm/lc0VV36EnQ=
 
-oxdex-contract@0.0.1-beta.1:
-  version "0.0.1-beta.1"
-  resolved "https://registry.yarnpkg.com/oxdex-contract/-/oxdex-contract-0.0.1-beta.1.tgz#09f6c2443272beef829da3763aae5fc511dcc5e8"
-  integrity sha512-iePyUDcijHzq3UJLe9PexKg+OWrlBsKqFKjU3GCLwGR44OtFi6OZCGdXy6GkFZMKc2RlHJcuvL2hPIHri0O+Ag==
-  dependencies:
-    "@uniswap/lib" "^4.0.1-alpha"
+oxdex-contract@0.0.1-beta.2:
+  version "0.0.1-beta.2"
+  resolved "https://registry.yarnpkg.com/oxdex-contract/-/oxdex-contract-0.0.1-beta.2.tgz#6b8a47bb93f7ec94bc0fc533e799d23ea4f813b5"
+  integrity sha512-4Po1JyvGxptNUPmSePVxvnWIeqqKqKdAKogo2EGeW963SbZOdoodvtwH7ShxNrO4VwMhVx6EI7fjO0bX/3CBdg==
 
 p-each-series@^1.0.0:
   version "1.0.0"

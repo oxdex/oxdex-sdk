@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/oxdex/oxdex-heco-sdk.git",
+  "repository": "https://github.com/oxdex/oxdex-sdk.git",
   "keywords": [
     "oxdex",
     "hecochain"
@@ -23,7 +23,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "oxdex-contract": "0.0.1-beta.1",
+    "oxdex-contract": "0.0.1-beta.2",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.1",
