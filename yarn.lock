@@ -4722,10 +4722,10 @@ os-tmpdir@~1.0.2:
   resolved "https://registry.yarnpkg.com/os-tmpdir/-/os-tmpdir-1.0.2.tgz#bbe67406c79aa85c5cfec766fe5734555dfa1274"
   integrity sha1-u+Z0BseaqFxc/sdm/lc0VV36EnQ=
 
-oxdex-contract@0.0.1-beta.2:
-  version "0.0.1-beta.2"
-  resolved "https://registry.yarnpkg.com/oxdex-contract/-/oxdex-contract-0.0.1-beta.2.tgz#6b8a47bb93f7ec94bc0fc533e799d23ea4f813b5"
-  integrity sha512-4Po1JyvGxptNUPmSePVxvnWIeqqKqKdAKogo2EGeW963SbZOdoodvtwH7ShxNrO4VwMhVx6EI7fjO0bX/3CBdg==
+oxdex-contract@0.0.1-beta.3:
+  version "0.0.1-beta.3"
+  resolved "https://registry.yarnpkg.com/oxdex-contract/-/oxdex-contract-0.0.1-beta.3.tgz#4e5417d1447ab71149007497a75648d6505093cc"
+  integrity sha512-d5nIV8B6S9otS0x1oEVq9JyfBeAx4xCa1JMW2kqxJie868mnLvGA0/11hFOuPcdiRoXd38qH/7GCcPdtZQe/wA==
 
 p-each-series@^1.0.0:
   version "1.0.0"
