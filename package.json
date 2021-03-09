@@ -1,7 +1,7 @@
 {
-  "name": "oxdex-heco-sdk",
+  "name": "oxdex-sdk",
   "license": "MIT",
-  "version": "v0.0.1-beta.1-heco",
+  "version": "v0.0.1-beta.heco-1",
   "description": "An SDK for building applications on top of OxDex.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
