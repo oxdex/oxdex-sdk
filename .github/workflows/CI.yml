@@ -14,8 +14,8 @@ jobs:
   test:
     strategy:
       matrix:
-        node: ["10.x", "12.x"]
-        os: [ubuntu-latest, macOS-latest]
+        node: ["12.x"]
+        os: [ubuntu-latest]
 
     runs-on: ${{ matrix.os }}
 
@@ -37,7 +37,6 @@ jobs:
             ${{ matrix.os }}-yarn-
 
       - run: yarn
-
       - run: yarn lint
       - run: yarn build
       - run: yarn test
